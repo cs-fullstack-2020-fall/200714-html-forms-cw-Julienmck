@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#parentdiv{
+    display: grid;
+    grid-template-columns: 1,4;
+    grid-template-rows: 1,6;
+    border:1px solid white;
+    background-color: white;
+
+}
+
+div{
+grid-column: 4;
+grid-row: ;
+border: white; 
+}
+
+
+
+
