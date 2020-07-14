@@ -14,10 +14,21 @@ body{
 
 div{
 grid-column: 4;
-grid-row: ;
+grid-row: 6;
 border: white; 
 }
 
+footer{
+color: white;
+border:1px solid white;
+text-align: center;
+margin-top: 5%;
+}
 
-
+header{
+    color: white;
+ text-align: center;
+    border:1px solid white;
+    margin-bottom: 5%;
+}
 
