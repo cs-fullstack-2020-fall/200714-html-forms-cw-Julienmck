@@ -1,5 +1,8 @@
 # 200714 Html Forms Graded Classwork
 
+## Score 3/5
+Perfect form implenetation but your missing the header and footer and key styling.
+
 ## Assignment
 - Recreate `html_form.png`
 - Page background should be blue
